@@ -32,7 +32,7 @@
 - [⚙️ Architecture](#️-architecture)
 - [🔧 Installation](#-installation)
 - [🎮 Usage](#-usage)
-- [To-Do 📝](#to-do-)
+- [📝 To-Do](#-to-do)
 - [🤝 Contribute](#-contribute)
 - [📜 License](#-license)
 
@@ -65,7 +65,7 @@ Once the Langchain demos are installed, you can use it from any browser on below
 [http://localhost:8501](http://localhost:8501)
 
 
-## To-Do 📝
+## 📝 To-Do 
 - [ ] Add AWS LLM for more comparison
 - [ ] Add S3 / Blob storage / Google file storage chat
 - [ ] Add charts and graphs on top of database chat.
